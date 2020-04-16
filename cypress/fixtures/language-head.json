@@ -1,0 +1,7 @@
+{
+  "currWord": "Testnextword",
+  "correctAnswer": "test-answer-from-incorrect-guess", 
+  "wordCorrectCount": 222,
+  "wordIncorrectCount": 333,
+  "totalScore": 999
+}
